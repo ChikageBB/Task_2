@@ -1,0 +1,11 @@
+h1 {
+    background: red;
+    color: white;
+}
+
+.paragraph{
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow:  1px 1px 2px green;
+}
